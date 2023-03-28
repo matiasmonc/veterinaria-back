@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "KWie5/ud9TzCLMllTyg7uHyuS05YbITDEW+7hbZ2MPtYB0vbxSPB4/pjCNKEwMl0rsZMrc50JK9di46SpJ41MQ==",
+  "success": true,
+  "projectFilePath": "D:\\Documentos\\Proyectos\\Veterinaria\\veterinaria-back\\veterinaria-back\\veterinaria-back\\veterinaria-back.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Ch1psZAOO\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\Ch1psZAOO\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\Ch1psZAOO\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "C:\\Users\\Ch1psZAOO\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "C:\\Users\\Ch1psZAOO\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "C:\\Users\\Ch1psZAOO\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}
